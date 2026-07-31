@@ -3,3 +3,4 @@ class = warrior
 hp = 100
 armor = 5
 weapon = sword
+spawn = village
