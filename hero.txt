@@ -1,3 +1,4 @@
 name = maxim
+class = warrior
 hp = 100
 weapon = sword
