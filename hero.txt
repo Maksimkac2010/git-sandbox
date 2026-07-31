@@ -1,6 +1,6 @@
 name = maxim
 class = warrior
 hp = 100
-armor = 5
+armor = 10
 weapon = sword
 spawn = village
