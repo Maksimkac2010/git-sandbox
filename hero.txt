@@ -4,3 +4,4 @@ Hp = 150
 Armor = 10
 Weapon = sword
 Spawn = village
+ArmorType = diamond
