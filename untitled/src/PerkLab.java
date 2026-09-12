@@ -25,6 +25,7 @@ void main() {
     for (String perk : perks) {
         System.out.println(perk);
     }
+    isHere("залізяка", perks);
     isHere("roma", perks);
     longerForN(3, perks);
 }
